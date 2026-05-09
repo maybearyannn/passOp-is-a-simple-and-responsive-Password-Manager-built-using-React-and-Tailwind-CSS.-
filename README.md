@@ -21,3 +21,10 @@ Tailwind CSS
 LocalStorage (for saving data locally in the browser)
 
 # This project is lightweight, fast, and use localStorage. It's ideal for managing personal credentials locally on your device. You can easily add, edit, delete, and copy any password entry with a modern and clean UI.
+
+
+Hope you find it useful!
+
+Aryan Prakash
+
+yesaryan15@gmail.com
